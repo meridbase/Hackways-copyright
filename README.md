@@ -1,4 +1,4 @@
-```markdown
+
 # HACKWAYS
 
 > **Discover. Create. Attend.**
@@ -7,7 +7,7 @@ Hackways is an event technology and discovery platform built for discovering, cr
 
 **Official Website:** https://hackways.me/
 
----
+
 
 ## Ownership
 
@@ -31,7 +31,7 @@ The platform enables people to discover events and gives organizers a profession
 
 Instead of relying entirely on disconnected registration forms, spreadsheets, payment links, and communication channels, Hackways aims to bring the event experience into one platform.
 
-```text
+
                     HACKWAYS
                        │
         ┌──────────────┼──────────────┐
@@ -48,7 +48,7 @@ Instead of relying entirely on disconnected registration forms, spreadsheets, pa
                        │
                        ↓
                      ATTEND
-```
+
 
 ---
 
@@ -141,11 +141,11 @@ Payment Link
 WhatsApp / Email
      ↓
 Manual Management
-```
+
 
 Hackways is designed around a more centralized experience:
 
-```text
+
                  HACKWAYS
                     │
        ┌────────────┼────────────┐
@@ -160,7 +160,7 @@ Hackways is designed around a more centralized experience:
                    RSVP
                     ↓
                   Attend
-```
+
 
 ---
 
@@ -365,7 +365,7 @@ All Rights Reserved.
 
 Official Website:
 https://hackways.me/
-```
+
 
 **Hackways — Event discovery, registration, and event technology infrastructure.**
-```
+
